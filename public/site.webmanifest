@@ -1,0 +1,13 @@
+{
+  "name": "Cryptswipe",
+  "short_name": "Cryptswipe",
+  "description": "A virtual card that spends crypto straight from your wallet.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E1A",
+  "theme_color": "#0A0E1A",
+  "icons": [
+    { "src": "/android-chrome-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/brand/cryptswipe-icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

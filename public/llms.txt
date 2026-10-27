@@ -1,0 +1,32 @@
+# Cryptswipe
+
+> Cryptswipe (cryptswipe.com) is a non-custodial crypto virtual card. It links directly to any crypto wallet (MetaMask, Trust Wallet, Phantom, OKX, Binance Web3, Coinbase Wallet, Ledger or any WalletConnect wallet) so people can spend crypto online, on subscriptions and via Apple Pay / Google Pay.
+
+Key facts:
+- 100+ supported blockchains, including Ethereum, BNB Chain, Solana, Bitcoin, Polygon, Arbitrum, Optimism, Base, Avalanche, TON and Tron.
+- Card issued in under 60 seconds. Free issuance, no monthly fee, 0% foreign transaction fees.
+- A swap/network fee is shown before each payment; the crypto amount is locked at authorisation.
+- Non-custodial: funds stay in the user's wallet until the moment of spend. Every payment is signed by the wallet.
+- Security: dynamic CVV, 3-D Secure, encrypted card data, freeze/unfreeze. Cryptswipe never asks for a seed phrase.
+
+## Core pages
+- [How it works](https://cryptswipe.com/how-it-works)
+- [Supported networks](https://cryptswipe.com/supported-networks)
+- [Fees & limits](https://cryptswipe.com/fees)
+- [Security](https://cryptswipe.com/security)
+- [FAQ](https://cryptswipe.com/faq)
+- [About](https://cryptswipe.com/about)
+
+## Blog
+- [How to spend crypto online](https://cryptswipe.com/blog/how-to-spend-crypto-online)
+- [Best crypto virtual cards](https://cryptswipe.com/blog/best-crypto-virtual-cards)
+- [Pay subscriptions with crypto](https://cryptswipe.com/blog/pay-subscriptions-with-crypto)
+- [Crypto debit card vs virtual card](https://cryptswipe.com/blog/crypto-debit-card-vs-virtual-card)
+- [Spend Solana online](https://cryptswipe.com/blog/spend-solana-online)
+- [Spend USDT and USDC online](https://cryptswipe.com/blog/spend-usdt-usdc-online)
+- [Non-custodial crypto cards](https://cryptswipe.com/blog/non-custodial-crypto-card)
+- [Crypto cards with no KYC](https://cryptswipe.com/blog/crypto-card-no-kyc)
+- [Crypto card with Trust Wallet](https://cryptswipe.com/blog/crypto-card-trust-wallet)
+- [Crypto card with MetaMask](https://cryptswipe.com/blog/crypto-card-metamask)
+- [0% FX crypto cards](https://cryptswipe.com/blog/crypto-card-no-foreign-transaction-fees)
+- [Is a crypto card safe?](https://cryptswipe.com/blog/is-crypto-card-safe)
