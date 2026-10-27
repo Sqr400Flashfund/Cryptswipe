@@ -95,6 +95,8 @@ export const Route = createRootRoute({
   errorComponent: ErrorComponent,
 });
 
+const GA_ID = "G-RTWT72D0ZG";
+
 function RootShell({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
