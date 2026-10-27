@@ -1,4 +1,3 @@
-import { APPLY_URL } from "@/config/site";
 import { cn } from "@/lib/utils";
 import { ArrowRight } from "lucide-react";
 
@@ -18,7 +17,7 @@ export function ApplyButton({ className, size = "md", label = "Apply for Card", 
   };
   return (
     <a
-      href={APPLY_URL}
+      href="/apply"
       data-event="apply_click"
       data-location={location}
       className={cn(

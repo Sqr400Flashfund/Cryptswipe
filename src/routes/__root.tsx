@@ -95,31 +95,12 @@ export const Route = createRootRoute({
   errorComponent: ErrorComponent,
 });
 
-const GA_ID = "G-RTWT72D0ZG";
-
 function RootShell({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <head>
-        {/* Google Analytics */}
-        <script
-          async
-          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
-        />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', '${GA_ID}');
-            `,
-          }}
-        />
-
         <HeadContent />
       </head>
-
       <body>
         {children}
         <Scripts />
